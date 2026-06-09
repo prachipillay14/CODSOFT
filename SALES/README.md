@@ -52,15 +52,6 @@ The dataset contains advertising expenditures across different channels:
 * Predicted sales based on advertising expenditures.
 * Evaluated model performance using R² Score.
 
-## Project Structure
-
-Sales_Prediction
-│
-├── sales.ipynb
-├── README.md
-├── screenshots
-└── dataset
-
 ## Author
 
 Prachi Pillay
